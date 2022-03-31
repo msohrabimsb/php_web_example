@@ -1,0 +1,17 @@
+.sp-content {
+    display: block;
+    padding: 3px 20px;
+}
+
+main.app-main {
+    display: inline-block;
+    height: calc(100vh - 130px);
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #0a4275 !important;
+}
+
+.msg-flash {
+    font-size: 14px;
+}
